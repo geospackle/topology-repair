@@ -4,8 +4,8 @@ import pandas as pd
 
 
 def topology_repair(
-    inFile=[path to shapefile], 
-    dissolve_field="TYPE", 
+    inFile=path_to_shapefile, 
+    dissolve_field="", 
     gap_threshold=10000):    # threshold is max area of gaps that are considered to be errors
 
     # create variables for necessary paths, create gdb, import inFile into feature dataset
