@@ -11,10 +11,13 @@ topology_repair(inFile=path_to_shapefile, dissolve_field=shapefile_attribute_fie
 
 
 ![before](before.png)
+
 Original data
 
 ![errors](errors.png)
+
 Gap errors (red) and overlap errors (blue)
 
 ![after](after.png)
+
 Repaired topology
