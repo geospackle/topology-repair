@@ -4,6 +4,6 @@ Tested with Arc Pro 2.0 and 2.4
 
 The script creates a topology and automatically corrects overlap and gap errors. 
 
-![before](before)
+![before](before.png)
 
-![after](after)
+![after](after.png)
