@@ -10,11 +10,11 @@ To run:
 topology_repair(inFile=path_to_shapefile, dissolve_field=shapefile_attribute_field, gap_threshold=max_gap_area)
 
 
-![before](before.png)
+![before](before.png)  
 Original data
 
-![errors](errors.png)
-Gap errors (red) and overlap errors (blue)
+![errors](errors.png)  
+Gap errors (red) and overlap errors (blue)  
 
-![after](after.png)
+![after](after.png)  
 Repaired topology
