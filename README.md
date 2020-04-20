@@ -7,7 +7,7 @@ Hand drawn datasets can have hundreds of tiny overlap and gap errors between pol
 
 To run:
 
-topology_repair(inFile=path_to_shapefile, dissolve_field=shapefile_attribute_field, gap_threshold=max_gap_area)
+topology_repair(inFile=path_to_shapefile, dissolve_field=shapefile_attribute_field, gap_threshold=max_error_gap_area)
 
 
 
